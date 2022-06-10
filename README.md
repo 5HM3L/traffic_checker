@@ -4,7 +4,7 @@
 
 ```shell
 chmod +x remoteWiresharkSniff.sh
-./remoteWiresharkSniff.sh root@65.108.196.151 eth0
+./remoteWiresharkSniff.sh root@13.13.13.13 eth0
 ```
 
 ## Wireshark
